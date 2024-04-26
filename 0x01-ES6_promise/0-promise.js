@@ -1,5 +1,5 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-var */
+/* eslint-disable */
+/* eslint-disable */
 export default function getResponseFromAPI() {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
