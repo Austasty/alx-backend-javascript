@@ -1,7 +1,7 @@
-/* eslint-disable no-underscore-dangle */
+/* eslint-disable  */
 export default class HolbertonCourse {
   constructor(name, length, students) {
-    // Type checking and error handling
+    // Type checking and error
     if (typeof name !== 'string') {
       throw new TypeError('Name must be a string');
     }

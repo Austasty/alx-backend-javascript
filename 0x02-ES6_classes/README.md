@@ -1,1 +1,1 @@
-# 0x02-ES6_classes
+# solution 0x02-ES6_classes
